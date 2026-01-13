@@ -1,3 +1,5 @@
+fork of [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere)
+
 # cloudflare-cors-anywhere
 Cloudflare CORS proxy in a worker.
 
